@@ -2,8 +2,6 @@
 
 ---
 
-![image](https://github.com/user-attachments/assets/18614a2d-f1f9-4447-8665-4f90a90c935d)
-
 
 # 👋 Hello, I'm Isaac Aires
 
