@@ -8,7 +8,7 @@
 
 - 🎓 **Software Engineering student** at **UNICEPLAC** (4th semester)
 - 🔐 Focused on **development** and **cybersecurity**
-- 💻 Working with **Java**, **Spring Boot**, **C#**, and **cryptography**
+- 💻 Working with **Java**, **Spring Boot**
 
 ## Skills
 
