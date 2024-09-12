@@ -1,4 +1,5 @@
 
+![Final Fantasy 7 Banner]([https://example.com/ff7-banner.png](https://wallpapercave.com/final-fantasy-vii-remake-wallpapers)) <!-- Substitua pelo URL da imagem de capa -->
 
 ---
 
