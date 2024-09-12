@@ -1,16 +1,16 @@
-## Hi there 👋
+---
 
-<!--
-**Isaac-code-maker/Isaac-code-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Isaac Aires
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Software Engineering student** at **UNICEPLAC** (4th semester)
+- 🔐 Focused on **development** and **cybersecurity**
+- 💻 Working with **Java**, **Spring Boot**,
+
+## Skills
+- **Languages:** Java, C, Python
+- **Frameworks & Tools:** Spring Boot, JWT, Hibernate
+- **Areas of Interest:** Cybersecurity, Pentest, Cryptography, Backend Development
+
+---
