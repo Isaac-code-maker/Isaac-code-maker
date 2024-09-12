@@ -15,7 +15,7 @@
 - **Frameworks & Tools**: Spring Boot, JWT, Hibernate
 - **Cybersecurity (In Learning)**: 
   - **Tools**: Kali Linux, Metasploit, Nmap (Basics)
-  - **Languages**: Python for scripting for system automation
+  - **Languages**: Python for scripting, Bash for system automation
 - **Areas of Interest**: Cybersecurity, Pentest, Cryptography, Backend Development
 
 ## Current Projects
@@ -32,5 +32,6 @@
 - 📖 Continuously learning about new technologies and security practices
 
 Feel free to explore my repositories and get in touch!
+
 
 ---
