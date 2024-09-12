@@ -28,15 +28,6 @@
 - Cybersecurity (Pentesting, Cryptography)
 - Backend Development
 
-## Current Projects
-
-- **MinhaGab**: A document management system for clinical use, focusing on security and accessibility.
-- **Cybersecurity Repository**: My personal collection of exercises and experiments in the world of cybersecurity, where I explore tools like Kali Linux and Metasploit.
-
-## Find Me On
-- [LinkedIn](#) (Add your LinkedIn link here)
-- [GitHub Repositories](#) (Optional: Add a link to your main repository or project)
-
 ## Hobbies & Interests
 
 - 🔍 Engaging in real-world problem solving, especially in cybersecurity challenges
@@ -44,4 +35,4 @@
 
 ---
 
-Feel free to explore my repositories and get in touch if you're interested in collaborating or learning more about my work!
+Feel free to explore my repositories and get in touch if you're interested in collaborating
