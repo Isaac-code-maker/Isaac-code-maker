@@ -2,7 +2,8 @@
 
 ---
 
-![Final Fantasy 7 Banner]([https://example.com/ff7-banner.png](https://wallpapercave.com/final-fantasy-vii-remake-wallpapers)) 
+![image](https://github.com/user-attachments/assets/18614a2d-f1f9-4447-8665-4f90a90c935d)
+
 
 # 👋 Hello, I'm Isaac Aires
 
