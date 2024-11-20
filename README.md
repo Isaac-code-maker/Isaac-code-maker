@@ -42,11 +42,6 @@
 
 ---
 
-## 🎨 **Hobbies & Interests**
-- 🕵️ Engaging in real-world problem solving, especially in cybersecurity challenges  
-- 📚 Continuously learning new technologies, focusing on the intersection between software development and security  
-
----
 
 ## 📊 **GitHub Stats**
 ![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaac-code-maker&show_icons=true&theme=radical)  
