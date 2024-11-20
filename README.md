@@ -1,4 +1,4 @@
-S# 👋 Hello, I'm Isaac Aires
+## 👋 Hello, I'm Isaac Aires
 
 🎓 **Software Engineering student** at UNICEPLAC (4th semester)  
 🖥️ Focused on **development and cybersecurity**  
