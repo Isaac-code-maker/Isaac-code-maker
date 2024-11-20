@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Isaac Aires
+S# 👋 Hello, I'm Isaac Aires
 
 🎓 **Software Engineering student** at UNICEPLAC (4th semester)  
 🖥️ Focused on **development and cybersecurity**  
@@ -50,5 +50,5 @@
 ---
 
 ## 📬 **Reach Me**
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+- [LinkedIn](https://www.linkedin.com/in/isaac-aires-4601a728b/)  
 - 📧 Email: isaacairesbarros@gmail.com.com
