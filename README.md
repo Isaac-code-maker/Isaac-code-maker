@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Isaac Aires
 
-🎓 **Software Engineering student** at UNICEPLAC (4th semester)  
+🎓 **Software Engineering student** at UNICEPLAC (5th semester)  
 🖥️ Focused on **development and cybersecurity**  
 🚀 Currently working with **Java** and **Spring Boot**  
 🔍 Exploring the **mysterious world of cybersecurity** as part of my learning journey  
