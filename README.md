@@ -9,9 +9,9 @@
 
 ## 🛠️ **Skills**
 
-### Languages
-- 🐍 Python (in progress)  
-- ☕ Java  
+### Languages 
+- ☕ Java
+- 🐍 Python
 - 🌐 C  
 
 ### Frameworks & Tools
